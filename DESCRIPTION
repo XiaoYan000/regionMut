@@ -22,7 +22,7 @@ Imports:
     glue,
     purrr,
     rtracklayer,
-    helperMut(0.1.1.1),
+    helperMut (== 0.1.1.1),
     yaml,
     MASS,
     fs,
